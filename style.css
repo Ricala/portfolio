@@ -1,0 +1,19 @@
+*,
+:before,
+:after {
+  box-sizing: border-box;
+}
+
+.containers {
+  background-color: #f1d2b4;
+  border: 1px solid black;
+  margin-top: 3px;
+  padding-left: 5px;
+}
+
+.proj-title {
+  text-align: center;
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=style.css.map */

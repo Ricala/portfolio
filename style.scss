@@ -1,0 +1,17 @@
+*,
+:before,
+:after {
+  box-sizing: border-box;
+}
+
+.containers {
+  background-color: rgb(241, 210, 180);
+  border: 1px solid black;
+  margin-top: 3px;
+  padding-left: 5px;
+}
+
+.proj-title {
+  text-align: center;
+  text-decoration: underline;
+}
