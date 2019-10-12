@@ -16,4 +16,16 @@
   text-decoration: underline;
 }
 
+#hero-header {
+  text-align: center;
+}
+
+#hero-container {
+  text-align: center;
+}
+#hero-container a {
+  text-align: center;
+  text-decoration: none;
+}
+
 /*# sourceMappingURL=style.css.map */
